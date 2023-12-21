@@ -1,2 +1,3 @@
 dict={"Citroen":"French","Reno":"French2","BMW":"Germany"}
 names={"BG":"Stoqn","FR":"Jan Reno","American":"Brat"}
+score=[99,44,55]

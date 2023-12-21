@@ -1,1 +1,1 @@
-names_of_players={"Chelsea:","Pochetino","Liverpool":,"Klop"}
+names_of_players={"Chelsea:","Pochetino","Liverpool":,"Klop","Manchester City":"Guardiola"}

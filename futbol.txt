@@ -1,2 +1,2 @@
 names_of_players={"Chelsea:","Pochetino","Liverpool":,"Klop","Manchester City":"Guardiola"}
-top_teams={"Chelsea:",6,"Real Madrid":7}
+top_teams={"Chelsea:",6,"Real Madrid":7,"Manchester City:",6}
